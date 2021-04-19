@@ -1,0 +1,37 @@
+#main{
+padding: 1% 20% ;
+}
+.conttainer-fluid{
+    text-align: center;
+    background-color: #f8f9fc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    padding: 2% 0;
+}
+.title-name {
+    font-size: 1.7rem;
+    padding-top: 5%;
+    text-transform: uppercase;
+    font-family: 'Montserrat-black', sans-serif;
+    cursor:context-menu;
+}
+p{
+    padding:5% 0;
+}
+.buttons{
+    background-color: #025c68;
+    color: #fff;
+    font-family: 'Montserrat-black', sans-serif;
+   
+}
+.buttons:hover{
+    color: #fff;
+}
+legend {
+    background-color: #000;
+    color: #fff;
+    padding: 3px 6px;
+}
+
